@@ -1,1 +1,3 @@
-"# Aim-trainer-using-pygame" 
+Created a aim trainer script using python
+
+
